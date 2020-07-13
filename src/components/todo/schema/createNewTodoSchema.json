@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "todoTitle": {
+      "type": "string"
+    },
+    "todoBody": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "todoTitle",
+    "todoBody"
+  ]
+}
