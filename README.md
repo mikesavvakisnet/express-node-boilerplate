@@ -1,5 +1,5 @@
 # express-node-boilerplate
-Another crappy almost production-ready boilerplate for node API applications.
+Another crappy almost production-ready boilerplate for node APIs.
 
 ✔️ Central Error Handler
 ✔️ Central Response Handler
