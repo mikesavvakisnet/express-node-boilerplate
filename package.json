@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "ajv": "^6.12.2",
-    "convict": "^6.0.0",
+    "convict": "^6.2.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
